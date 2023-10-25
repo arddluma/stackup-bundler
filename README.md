@@ -1,3 +1,4 @@
+trigger
 ![](https://i.imgur.com/t0P3vWU.png)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/stackup-wallet/stackup-bundler)
